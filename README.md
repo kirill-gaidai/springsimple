@@ -1,1 +1,1 @@
-# springsimple
+# spring simple java project template
